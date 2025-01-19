@@ -1,0 +1,2 @@
+V 1.0:
+Basic functionaluty and scheduler entries. Along with trigger events
