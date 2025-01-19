@@ -21,6 +21,7 @@ that event is remembered and will appear in scheduler and widget.
 # Acquire
 
 Scheduler lies in Krowly's basement to the right of red magic book.
+![image](https://github.com/user-attachments/assets/caee080c-de49-4784-98e5-01a2ebf745c5)
 Widget activates when you pick it up also.
 To open widget press W (by default, that is same button that shows Krowly), and to
 navigate Scheduler use arrows to change page and Z (by default) to exit.
