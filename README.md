@@ -1,6 +1,6 @@
 # WaB-Events-Scheduler
 
-Warlock And Boobs - Event Scheduler mod
+[Warlock And Boobs](https://boobsgames.itch.io/warlock-and-boobs) - Event Scheduler mod
 
 # WARNING:
 
