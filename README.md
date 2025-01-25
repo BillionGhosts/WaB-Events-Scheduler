@@ -20,15 +20,20 @@ that event is remembered and will appear in scheduler and widget.
 
 # Acquire
 
-Scheduler lies in Krowly's basement to the right of red magic book.
+Scheduler lies in Krowly's basement to the right of red magic book:
 ![image](https://github.com/user-attachments/assets/caee080c-de49-4784-98e5-01a2ebf745c5)
+
+Or here in extended laboratory:
+
+![image](https://github.com/user-attachments/assets/3a9b9d67-c0b8-46f9-bb22-fd266c813fa0)
+
 Widget activates when you pick it up also.
 To open widget press W (by default, that is same button that shows Krowly), and to
 navigate Scheduler use arrows to change page and Z (by default) to exit.
 
 # Emergency actions
 
-You can also put down your scheduler in same place. You will be given two options:
+You can also put down your scheduler in same place. You will be given three options:
 
 - Put it back: because all events are checking if you have scheduler, you safely can return scheduler if you encounter
   any bugs with events. Your progress will be saved though.
@@ -47,11 +52,11 @@ on you. Activate it to enable all events. Deactivate to erase your progress and 
 
 - Be advised that "purge mod from save" may not completely purge your save. I tested feature myself but who knows what
   else can be contaminated apart from variables and switches and whatnot
-
 - Always close your widget screen if you don't need it. It draws on screen almost all the time until deactivated.
   Although i added forced close of widget to the save screen (otherwise it tried to 'save' widget graphics as well and
   corrupted the save),
   i didn't add this forceful closure to all places in game.
+- Event entries don't respect rainy days and shown regardless.
 - The widget button is rather finicky to press. Case RPG Maker don't listen to button WAS PRESSED and listen's to BEING
   PRESSED. And because of that it just almost constantly listen to button being pushed and it checks it every N frames.
   For now it listens to it every 7 frames. So what happens is - you gently press the button and widget will appear but
