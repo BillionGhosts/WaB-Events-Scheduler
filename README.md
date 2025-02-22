@@ -39,9 +39,11 @@ You can also put down your scheduler in same place. You will be given three opti
   any bugs with events. Your progress will be saved though.
 - Update Entries: if and when this mod will be updated there maybe will be some new entries/removed/modified entries in
   scheduler. In order to  "update" your scheduler you can use this option. Your progress will be saved
-- Purge mod from save: it nulls out all variables and switches in your save (also remove scheduler from the player) so
+- Purge mod from save (working correctly since v1.2 of the mod): it nulls out all variables and switches in your save (also remove scheduler from the player) so
   that this save could be used in newer version of the game. I tested this feature and it worked for me on clean modless
   version of the game.
+- Fix 0.509: if you purged mod on version v1 or v1.1 and then played version 0.509 of the game you need this action. It resets empty table with missing scheduler so that you can 
+  obtain it again. Otherwise it will lead to errors. 
 
 # Cheat
 
