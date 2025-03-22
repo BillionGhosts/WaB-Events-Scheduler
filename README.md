@@ -1,6 +1,8 @@
 # WaB-Events-Scheduler
 
 [Warlock And Boobs](https://boobsgames.itch.io/warlock-and-boobs) - Event Scheduler mod
+[F95Zone page](https://f95zone.to/threads/warlock-and-boobs-event-scheduler-mod-v3-billionghosts.242322/)
+
 
 # WARNING:
 
