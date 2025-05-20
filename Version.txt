@@ -1,2 +1,23 @@
+v 5:
+Adapted for version 0.512.0.2 of the game
+Returned lost event in schedule for Derek fucking Taisha on friday
+Fixed schedule event for Rayna in spa on Friday
+Modified completion of Fina's home masturbation event in the door trigger to encourage finding of actual scene at the hole.
+v 4:
+Adapted for version 0.511 of the game
+Added event for alice's traing for Carla
+Added event for volt's praying
+Added missing Mable event in elf village (could obtain it only with cheat)
+v 3:
+Adapted for version 0.510 of the game
+Fixed night Astra and Eric event doesn't count for scheduler
+Same for Derek and Jenna night event
+v 2:
+Adapted for version 0.509 of the game
+v 1.2:
+Purge action fixed
+v 1.1: 
+Added scheduler to updated laboratory
+Added event for guards in paladin's camp
 V 1.0:
 Basic functionaluty and scheduler entries. Along with trigger events
